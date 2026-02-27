@@ -1,0 +1,1318 @@
+{
+	"start_game": [
+		{
+			"body": "宅学院终于建立了",
+			"name": "nadesiko"
+		},
+		{
+			"body": "是啊，上一次踏上这里还是学生呢。",
+			"name": "riko"
+		},
+		{
+			"body": "嗯",
+			"name": "nadesiko"
+		},
+		{
+			"body": "话说，我刚才进去走了一圈。发现宅学院是对称结构。之前一直不知道。",
+			"name": "riko"
+		},
+		{
+			"body": "也就是说房间分布是左右对称的，真有趣呢？不过想到这里最早是灵教堂，就不奇怪了",
+			"name": "nadesiko"
+		},
+		{
+			"body": "说到灵教，得小心一点。宅学院不比同盟学院，更容易被他们搞事。",
+			"name": "riko"
+		},
+		{
+			"body": "我以后去向中央申请派个守卫吧",
+			"name": "nadesiko"
+		},
+		{
+			"body": "差不多时间了，我们一起去迎接宅学院的第一批学生吧",
+			"name": "riko"
+		},
+		{
+			"body": "嗯，我们走吧",
+			"name": "nadesiko"
+		},
+		{
+			"body": "任务：和孩子打招呼",
+			"name": "game"
+		}
+	],
+	"seimonn_asa_nacumi_and_yuki_first": [
+		{
+			"body": "森阿姨和清水阿姨，早上好。",
+			"name": "sirakawa"
+		},
+		{
+			"body": "小有希和小夏美，早上好。",
+			"name": "nadesiko"
+		}
+	],
+	"seimonn_asa_riko_first": [
+		{
+			"body": "还有一位孩子没到，希望不会出事。",
+			"name": "riko"
+		},
+		{
+			"body": "「我去找找，如果找到了再来告诉莉子吧」",
+			"name": "nadesiko"
+		}
+	],
+	"seimonn_asa_ken_and_mayo_first": [
+		{
+			"body": "早上好",
+			"name": "nadesiko"
+		},
+		{
+			"body": "早上...好",
+			"name": "ken"
+		},
+		{
+			"body": "老师，早上好！",
+			"name": "mayo"
+		}
+	],
+	"seimonn_asa_yuduki_first": [
+		{
+			"body": "早上好,风间同学",
+			"name": "nadesiko"
+		},
+		{
+			"body": "老..师.....早..上...好。",
+			"name": "yuduki"
+		},
+		{
+			"body": "风间同学来得真早呀",
+			"name": "nadesiko"
+		},
+		{
+			"body": "嗯...",
+			"name": "yuduki"
+		},
+		{
+			"body": "还没上课，先去认识一下新朋友吧",
+			"name": "nadesiko"
+		},
+		{
+			"body": ".对...不..起...我想..待..这....",
+			"name": "yuduki"
+		},
+		{
+			"body": "这样啊，那等以后有机会再认识吧",
+			"name": "nadesiko"
+		}
+	],
+	"seimonn_asa_yuduki_second": [
+		{
+			"body": "「她看得很认真，还是不要打扰她好了」",
+			"name": "nadesiko"
+		}
+	],
+	"seimonn_asa_riko_yuduki_task_1": [
+		{
+			"body": "莉子，小结月在教室里，不用再等了",
+			"name": "nadesiko"
+		},
+		{
+			"body": "是吗？我来的时候居然没发现。",
+			"name": "riko"
+		},
+		{
+			"body": "可能是父亲的缘故，她有点不合群",
+			"name": "nadesiko"
+		},
+		{
+			"body": "我也发现了。以后我们要多关注她一点",
+			"name": "riko"
+		},
+		{
+			"body": "嗯",
+			"name": "nadesiko"
+		}
+	],
+	"seimonn_asa_minnna_yuduki_task_1": [
+		{
+			"body": "我们也来帮忙",
+			"name": "sirakawa"
+		},
+		{
+			"body": "风间同学应该也很渴望朋友",
+			"name": "nacumi"
+		},
+		{
+			"body": "好，我们要让她重新自信起来",
+			"name": "nadesiko"
+		},
+		{
+			"body": "那现在，我们先去上课吧",
+			"name": "riko"
+		}
+	],
+	"soto_asa_yonn_ninn_tomodati_first": [
+		{
+			"body": "早上好",
+			"name": "nadesiko"
+		},
+		{
+			"body": "老师，早上...好",
+			"name": "amemiya"
+		},
+		{
+			"body": "早上好！",
+			"name": "suzu"
+		},
+		{
+			"body": "早上好！",
+			"name": "yuuta"
+		},
+		{
+			"body": "早上好！",
+			"name": "syouta"
+		}
+	],
+	"seimonn_asa_day1_end": [
+		{
+			"body": "我们先进去吧，马上就要上课了",
+			"name": "nadesiko"
+		}
+	],
+	"soto_hiru_all_hito_end": [
+		{
+			"body": "中午好",
+			"name": "nadesiko"
+		},
+		{
+			"body": "森阿姨，中午好！",
+			"name": "mayo"
+		},
+		{
+			"body": "森阿姨，魔法感觉好难啊",
+			"name": "yuuta"
+		},
+		{
+			"body": "没有的事，只要我们用心学，一定能掌握",
+			"name": "nadesiko"
+		},
+		{
+			"body": "森阿姨，你认识小林先生吗？",
+			"name": "syouta"
+		},
+		{
+			"body": "我不认识，但是我的老师认识",
+			"name": "nadesiko"
+		},
+		{
+			"body": "森阿姨的老师是谁呢",
+			"name": "suzu"
+		},
+		{
+			"body": "是现在同盟的总书记白川明先生。我以前在同盟学院学习，就是白川明先生教我魔法",
+			"name": "nadesiko"
+		},
+		{
+			"body": "白川？难道是白川同学的亲人吗？",
+			"name": "ken"
+		},
+		{
+			"body": "嗯，是我的父亲",
+			"name": "sirakawa"
+		},
+		{
+			"body": "诶！那岂不是很年轻",
+			"name": "ken"
+		},
+		{
+			"body": "没有，老师比我大八岁。他在和现在的我相同年纪有了有希",
+			"name": "nadesiko"
+		},
+		{
+			"body": "我和有希是相同年纪哦！",
+			"name": "nacumi"
+		},
+		{
+			"body": "诶！",
+			"name": "ken"
+		}
+	],
+	"room_hiru_yuduki_untask_day1": [
+		{
+			"body": "中午好，风间同学。",
+			"name": "nadesiko",
+			"father": "0"
+		},
+		{
+			"body": "校..长...中..午...好",
+			"name": "yuduki",
+			"father": "0"
+		},
+		{
+			"body": "为什么躲在这里？",
+			"name": "nadesiko",
+			"father": "0"
+		},
+		{
+			"body": ".对...不..起...我想..待..这....",
+			"name": "yuduki",
+			"father": "0"
+		}
+	],
+	"room_hiru_yuduki_2_day1": [
+		{
+			"body": "「我觉得我得去找莉子说一下下午的事情」",
+			"name": "nadesiko",
+			"father": "0"
+		}
+	],
+	"room_hiru_yuduki_day1": [
+		{
+			"body": "中午好，风间同学。",
+			"name": "nadesiko",
+			"father": "0"
+		},
+		{
+			"body": "校..长...中..午...好",
+			"name": "yuduki",
+			"father": "0"
+		},
+		{
+			"body": "「我要问她什么」",
+			"name": "nadesiko",
+			"father": "0",
+			"options": [
+				{
+					"text": "你喜欢看书吗？",
+					"id": "1"
+				},
+				{
+					"text": "为什么躲在这里？",
+					"id": "2"
+				}
+			]
+		},
+		{
+			"body": "你喜欢看书吗？",
+			"name": "nadesiko",
+			"father": "1"
+		},
+		{
+			"body": "嗯...喜欢",
+			"name": "yuduki",
+			"father": "1"
+		},
+		{
+			"body": "我也喜欢。风间同学喜欢看什么书呢？",
+			"name": "nadesiko",
+			"father": "1"
+		},
+		{
+			"body": "⟪灵论⟫",
+			"name": "yuduki",
+			"father": "1"
+		},
+		{
+			"body": "小林先生写给平民的魔法书，风间同学真是善良啊",
+			"name": "nadesiko",
+			"father": "1"
+		},
+		{
+			"body": "诶！为什么",
+			"name": "yuduki",
+			"father": "1"
+		},
+		{
+			"body": "因为风间同学喜欢读平民的书，也是属于广大善良宅使中的一员啊",
+			"name": "nadesiko",
+			"father": "1"
+		},
+		{
+			"body": "我是宅使吗？我...明明",
+			"name": "yuduki",
+			"father": "1"
+		},
+		{
+			"body": "风间同学学习魔法，当然是宅使了。试试去和其他同学相处吧！毕竟宅使是最团结的群体啊",
+			"name": "nadesiko",
+			"father": "1"
+		},
+		{
+			"body": "嗯！",
+			"name": "yuduki",
+			"father": "1"
+		},
+		{
+			"body": "为什么躲在这里？",
+			"name": "nadesiko",
+			"father": "2"
+		},
+		{
+			"body": ".对...不..起...我想..待..这....",
+			"name": "yuduki",
+			"father": "2"
+		}
+	],
+	"class_task_yuduki_riko_day1_hiru": [
+		{
+			"body": "莉子，你下午打算教学生什么魔法",
+			"name": "nadesiko",
+			"father": "0"
+		},
+		{
+			"body": "先从简单的通灵术开始吧",
+			"name": "riko",
+			"father": "0"
+		},
+		{
+			"body": "我想让你先教需要团队合作的魔法",
+			"name": "nadesiko",
+			"father": "0"
+		},
+		{
+			"body": "为了让结月融入群体吗？我知道了。但是教什么魔法呢？",
+			"name": "riko",
+			"father": "0"
+		},
+		{
+			"body": "「我想一想需要团队合作的魔法是」",
+			"name": "nadesiko",
+			"father": "0",
+			"options": [
+				{
+					"text": "生物魔法",
+					"id": "1"
+				},
+				{
+					"text": "结界魔法",
+					"id": "2"
+				}
+			]
+		},
+		{
+			"body": "生物魔法吧",
+			"name": "nadesiko",
+			"father": "1"
+		},
+		{
+			"body": "生物魔法吗？好的，我就先教吧",
+			"name": "riko",
+			"father": "1"
+		},
+		{
+			"body": "结界魔法吧",
+			"name": "nadesiko",
+			"father": "2"
+		},
+		{
+			"body": "嗯，结界魔法确实人越多越好。",
+			"name": "riko",
+			"father": "2"
+		},
+		{
+			"body": "「我想我得去找孩子们一下」",
+			"name": "nadesiko",
+			"father": "2"
+		}
+	],
+	"class_untask_yuduki_riko_day1_hiru": [
+		{
+			"body": "莉子，你下午打算教学生什么魔法",
+			"name": "nadesiko"
+		},
+		{
+			"body": "先从简单的通灵术开始吧",
+			"name": "riko"
+		},
+		{
+			"body": "嗯",
+			"name": "nadesiko"
+		},
+		{
+			"body": "毕竟通灵魔法是低阶魔法嘛。",
+			"name": "riko"
+		}
+	],
+	"soto_hiru_all_hito_hide_and_seek": [
+		{
+			"body": "我们要不要来玩捉迷藏",
+			"name": "nadesiko"
+		},
+		{
+			"body": "好啊，好啊",
+			"name": "mayo"
+		},
+		{
+			"body": "叫风间同学一起吧",
+			"name": "sirakawa"
+		},
+		{
+			"body": "嗯",
+			"name": "nadesiko"
+		},
+		{
+			"body": "森阿姨来抓我们吧",
+			"name": "syouta"
+		},
+		{
+			"body": "可以",
+			"name": "nadesiko"
+		}
+	],
+	"soto_hiru_all_hito_hide_and_seek_1": [
+		{
+			"body": "发现翔太和裕太",
+			"name": "game"
+		},
+		{
+			"body": "被发现了",
+			"name": "syouta"
+		}
+	],
+	"hide_and_seek_yuki": [
+		{
+			"body": "发现结月、有希和夏美",
+			"name": "game"
+		},
+		{
+			"body": "被发现了",
+			"name": "sirakawa"
+		}
+	],
+	"seek_suzu": [
+		{
+			"body": "发现铃、雪、真夜和健",
+			"name": "game"
+		},
+		{
+			"body": "被发现了",
+			"name": "mayo"
+		}
+	],
+	"seek_ok": [
+		{
+			"body": "游戏胜利",
+			"name": "game"
+		},
+		{
+			"body": "太好了，我赢了。",
+			"name": "nadesiko"
+		},
+		{
+			"body": "接下来我们去上课吧",
+			"name": "nadesiko"
+		}
+	],
+	"class_portrait": [
+		{
+			"body": "小林清流，灵学家，第一位总结并教授平民魔法的人。被尊为“灵学之父”。",
+			"name": "game"
+		},
+		{
+			"body": "有著作⟪灵论⟫，他在书中系统地讲述灵学。书中把魔法分为了七曜系——月、火、水、木、金、土、火。",
+			"name": "game"
+		},
+		{
+			"body": "如果小林先生当年没被灵教迫害的话。。。",
+			"name": "nadesiko"
+		}
+	],
+	"room_book": [
+		{
+			"body": "结界魔法。⟪灵论⟫中将其归为土曜系魔法。⟪灵术要法⟫中将其归为聚灵魔法。",
+			"name": "game"
+		},
+		{
+			"body": "⟪宅使教册⟫中将其归为低阶魔法。效果因灵大小而变化，通常多人合作效果最好。",
+			"name": "game"
+		},
+		{
+			"body": "该魔法是需要团队合作的魔法",
+			"name": "nadesiko"
+		}
+	],
+	"class_task_yuduki_day1_gogo": [
+		{
+			"body": "结界很牢固，果然人多力量就大嘛",
+			"name": "nadesiko"
+		},
+		{
+			"body": "多亏有了风间同学啊",
+			"name": "sirakawa"
+		},
+		{
+			"body": "哪里..",
+			"name": "yuduki"
+		},
+		{
+			"body": "风间同学的魔法很熟练，以后请多多关照了",
+			"name": "nacumi"
+		},
+		{
+			"body": "我才是...请多多关照",
+			"name": "yuduki"
+		},
+		{
+			"body": "我也是，请多多关照",
+			"name": "sirakawa"
+		},
+		{
+			"body": "白川同学的魔法比我好多了，我才要请你多多关照",
+			"name": "yuduki"
+		},
+		{
+			"body": "直接叫我有希就好了，我们是朋友嘛",
+			"name": "sirakawa"
+		},
+		{
+			"body": "我也是，直接叫我夏美就好了",
+			"name": "nacumi"
+		},
+		{
+			"body": "朋友...吗...嗯",
+			"name": "yuduki"
+		},
+		{
+			"body": "同样我们也可以直接称呼风间同学的名字吗？",
+			"name": "sirakawa"
+		},
+		{
+			"body": "当...当然",
+			"name": "yuduki"
+		}
+	],
+	"class_task__riko_day1_gogo": [
+		{
+			"body": "「莉子正在指导学生，还是不要打扰她好了」",
+			"name": "nadesiko"
+		}
+	],
+	"class_task_yuduki_riko_day1_gogo": [
+		{
+			"body": "孩子们学得怎么样，莉子",
+			"name": "nadesiko"
+		},
+		{
+			"body": "抚子，我觉得结界魔法先学是正确的",
+			"name": "riko"
+		},
+		{
+			"body": "嗯，现在我也这么觉得。",
+			"name": "nadesiko"
+		},
+		{
+			"body": "结月好像有点融入了，抚子你做了什么吗",
+			"name": "riko"
+		},
+		{
+			"body": "嗯，开导了一下。毕竟当初是我邀请她来的",
+			"name": "nadesiko"
+		},
+		{
+			"body": "结月是好孩子啊。腐朽的灵教没有摧毁她善良的天性。听当地的人说她以前经常帮助宅使",
+			"name": "riko"
+		},
+		{
+			"body": "嗯，她一直把自己当魔法使的女儿。却不知自己早已是一位宅使了",
+			"name": "nadesiko"
+		},
+		{
+			"body": "感觉还要做些什么，让她彻底融入。",
+			"name": "nadesiko"
+		}
+	],
+	"class_task__cabinet_no_key__day1_gogo": [
+		{
+			"body": "这是之前同盟在这里开成员培训的时候的柜子，里面的东西还没收拾",
+			"name": "nadesiko"
+		},
+		{
+			"body": "诶，上锁了。还是密码锁",
+			"name": "nadesiko"
+		},
+		{
+			"body": "锁上面写「-5-2-5-5」",
+			"name": "nadesiko"
+		},
+		{
+			"body": "我记得同盟的加密数字，试着用它解开一下",
+			"name": "nadesiko"
+		}
+	],
+	"class_task__cabinet_2_day1_gogo": [
+		{
+			"body": "密码错误，我再想一想吧",
+			"name": "nadesiko"
+		}
+	],
+	"class_task__cabinet_day1_gogo": [
+		{
+			"body": "打开了",
+			"name": "nadesiko"
+		},
+		{
+			"body": "诶，这是",
+			"name": "nadesiko"
+		},
+		{
+			"body": "发现原来同盟的合影",
+			"name": "game"
+		},
+		{
+			"body": "我知道了要做什么了！现在去找莉子商量一下吧",
+			"name": "nadesiko"
+		}
+	],
+	"class_task_yuduki_riko_day1_gogo_2": [
+		{
+			"body": "莉子,我们要不要今晚合宿",
+			"name": "nadesiko"
+		},
+		{
+			"body": "合宿？不错啊",
+			"name": "riko"
+		},
+		{
+			"body": "嗯，趁机互相熟悉一下",
+			"name": "nadesiko"
+		},
+		{
+			"body": "那先征询一下孩子们的意见",
+			"name": "riko"
+		},
+		{
+			"body": "嗯",
+			"name": "nadesiko"
+		},
+		{
+			"body": "同学们，我们来商量一件事",
+			"name": "riko"
+		}
+	],
+	"class_task_yuduki_riko_day1_gogo_3": [
+		{
+			"body": "老师今晚想组织在学院合宿，你们的意见如何",
+			"name": "nadesiko"
+		},
+		{
+			"body": "合宿？不错啊",
+			"name": "mayo"
+		},
+		{
+			"body": "我想要合宿",
+			"name": "amemiya"
+		},
+		{
+			"body": "可以呀",
+			"name": "syouta"
+		},
+		{
+			"body": "嗯",
+			"name": "yuuta"
+		},
+		{
+			"body": "我也想",
+			"name": "suzu"
+		},
+		{
+			"body": "既然真夜留下了，她家里人也一定会让我留下的。我也想要",
+			"name": "ken"
+		},
+		{
+			"body": "我和有希也是",
+			"name": "nacumi"
+		},
+		{
+			"body": "我.也..留下",
+			"name": "yuduki"
+		},
+		{
+			"body": "太好了，全员通过",
+			"name": "mayo"
+		},
+		{
+			"body": "那我和你们家长联系一下，你们先回家拿床单吧",
+			"name": "riko"
+		}
+	],
+	"class_untask__riko_day1_gogo": [
+		{
+			"body": "莉子,孩子们学得怎么样",
+			"name": "nadesiko"
+		},
+		{
+			"body": "嗯，生物魔法已经掌握了",
+			"name": "riko"
+		},
+		{
+			"body": "不过结月好像没有成功融入",
+			"name": "nadesiko"
+		},
+		{
+			"body": "等以后再慢慢融入集体吧",
+			"name": "riko"
+		},
+		{
+			"body": "嗯",
+			"name": "nadesiko"
+		},
+		{
+			"body": "快到放学时间了，今天就先这样吧",
+			"name": "riko"
+		}
+	],
+	"yoru_gassyuku_1": [
+		{
+			"body": "果然合宿就要玩试胆大会",
+			"name": "nadesiko"
+		},
+		{
+			"body": "路线就到半山腰后再回来。",
+			"name": "riko"
+		},
+		{
+			"body": "听起来不错",
+			"name": "mayo"
+		},
+		{
+			"body": "那谁和谁组合，怎么决定",
+			"name": "amemiya"
+		},
+		{
+			"body": "自己选择嘛",
+			"name": "sirakawa"
+		},
+		{
+			"body": "我们四人一组",
+			"name": "suzu"
+		},
+		{
+			"body": "那我们和结月一组",
+			"name": "nacumi"
+		},
+		{
+			"body": "好了，大家先商讨一下，决定一下组合吧。",
+			"name": "riko"
+		}
+	],
+	"yoru_gassyuku_yuduki_1": [
+		{
+			"body": "森阿姨要和我们一起吗？",
+			"name": "sirakawa",
+			"father": "0"
+		},
+		{
+			"body": "有希、夏美和结月一起吗",
+			"name": "nadesiko",
+			"father": "0"
+		},
+		{
+			"body": "嗯，森阿姨",
+			"name": "yuduki",
+			"father": "0"
+		},
+		{
+			"body": "「我要不要和她们一起呢？」",
+			"name": "nadesiko",
+			"father": "0",
+			"options": [
+				{
+					"text": "再考虑考虑",
+					"id": "1"
+				},
+				{
+					"text": "和有希四人",
+					"id": "2"
+				}
+			]
+		},
+		{
+			"body": "我再考虑考虑",
+			"name": "nadesiko",
+			"father": "1"
+		},
+		{
+			"body": "那等阿姨考虑好了，告诉我们",
+			"name": "sirakawa",
+			"father": "1"
+		},
+		{
+			"body": "那我们就四人一起了",
+			"name": "nadesiko",
+			"father": "2"
+		},
+		{
+			"body": "好",
+			"name": "sirakawa",
+			"father": "2"
+		}
+	],
+	"yoru_gassyuku_riko_1": [
+		{
+			"body": "莉子要加入哪群孩子呢",
+			"name": "nadesiko",
+			"father": "0"
+		},
+		{
+			"body": "还没想好,抚子呢？",
+			"name": "riko",
+			"father": "0",
+			"options": [
+				{
+					"text": "和铃她们一组",
+					"id": "1"
+				},
+				{
+					"text": "我再想想",
+					"id": "2"
+				}
+			]
+		},
+		{
+			"body": "我去铃她们组吧",
+			"name": "nadesiko",
+			"father": "1"
+		},
+		{
+			"body": "那我去陪真夜吧。那就这样好了",
+			"name": "riko",
+			"father": "1"
+		},
+		{
+			"body": "嗯，时间差不多了",
+			"name": "nadesiko",
+			"father": "1"
+		},
+		{
+			"body": "大家过来吧！",
+			"name": "riko",
+			"father": "1"
+		},
+		{
+			"body": "我再想想",
+			"name": "nadesiko",
+			"father": "2"
+		},
+		{
+			"body": "嗯",
+			"name": "riko",
+			"father": "2"
+		}
+	],
+	"yoru_gassyuku_riko_3": [
+		{
+			"body": "我去陪有希她们",
+			"name": "nadesiko"
+		},
+		{
+			"body": "是吗？那就拜托抚子照顾好她们了",
+			"name": "riko"
+		},
+		{
+			"body": "嗯。",
+			"name": "nadesiko"
+		},
+		{
+			"body": "现在时间差不多了",
+			"name": "nadesiko"
+		},
+		{
+			"body": "大家过来吧！",
+			"name": "riko"
+		}
+	],
+	"yoru_mountain_1": [
+		{
+			"body": "有..有希",
+			"name": "yuduki"
+		},
+		{
+			"body": "怎么了，结月",
+			"name": "sirakawa"
+		},
+		{
+			"body": "夜晚的山路有..有点暗",
+			"name": "yuduki"
+		}
+	],
+	"yoru_mountain_1_2": [
+		{
+			"body": "森..森阿姨",
+			"name": "yuduki"
+		},
+		{
+			"body": "怎么了，结月",
+			"name": "nadesiko"
+		},
+		{
+			"body": "夜晚的山路有..有点暗",
+			"name": "yuduki"
+		},
+		{
+			"body": "牵着我的手走吧",
+			"name": "nadesiko"
+		},
+		{
+			"body": "嗯",
+			"name": "yuduki"
+		}
+	],
+	"yoru_mountain_2": [
+		{
+			"body": "我们牵着手走吧",
+			"name": "sirakawa"
+		},
+		{
+			"body": "嗯",
+			"name": "yuduki"
+		}
+	],
+	"yoru_mountain_3": [
+		{
+			"body": "我也要，我也要",
+			"name": "nacumi"
+		},
+		{
+			"body": "那我们一起牵着手走吧",
+			"name": "sirakawa"
+		},
+		{
+			"body": "嗯",
+			"name": "yuduki"
+		}
+	],
+	"class_go_to_mountain": [
+		{
+			"body": "大家选好了吗",
+			"name": "riko"
+		},
+		{
+			"body": " 好了",
+			"name": "mayo"
+		},
+		{
+			"body": "我们也好了",
+			"name": "syouta"
+		},
+		{
+			"body": "我们也是",
+			"name": "nacumi"
+		},
+		{
+			"body": "好，那我们就开始吧",
+			"name": "nadesiko"
+		}
+	],
+	"mountain_2_4ninn_1": [
+		{
+			"body": "大家，我们要不要吓一下他们",
+			"name": "yuuta"
+		},
+		{
+			"body": "怎么说",
+			"name": "syouta"
+		},
+		{
+			"body": "就是躲起来扮鬼",
+			"name": "yuuta"
+		},
+		{
+			"body": "不太好吧",
+			"name": "suzu"
+		},
+		{
+			"body": "嗯，我们还是不要恶作剧好了。晚上山里挺危险的。",
+			"name": "nadesiko"
+		},
+		{
+			"body": "我知道了",
+			"name": "yuuta"
+		}
+	],
+	"mountain_2_4ninn_2": [
+		{
+			"body": "大家，我们要不要吓一下他们",
+			"name": "yuuta"
+		},
+		{
+			"body": "怎么说",
+			"name": "syouta"
+		},
+		{
+			"body": "就是躲起来扮鬼",
+			"name": "yuuta"
+		},
+		{
+			"body": "不太好吧",
+			"name": "amemiya"
+		},
+		{
+			"body": "没事的，试胆大会就是要这么玩",
+			"name": "yuuta"
+		},
+		{
+			"body": "「我还是先去跟健君说一下吧」",
+			"name": "amemiya"
+		}
+	],
+	"believer_-1": [
+		{
+			"body": "真有趣，该回去睡觉了",
+			"name": "game"
+		}
+	],
+	"believer_0": [
+		{
+			"body": "刚做了噩梦，还是出来散散步吧",
+			"name": "nadesiko"
+		}
+	],
+	"believer_1": [
+		{
+			"body": "站住，灵教的人。以为穿上神教的衣服就认不出了吗",
+			"name": "nadesiko"
+		},
+		{
+			"body": "镜川神保佑，灵主万岁！！！",
+			"name": "believer"
+		},
+		{
+			"body": "哼，今天镜川灵也保佑不了你了",
+			"name": "nadesiko"
+		}
+	],
+	"mayo_task_1": [
+		{
+			"body": "真夜，睡不着吗？",
+			"name": "nadesiko"
+		},
+		{
+			"body": "呀——森阿姨",
+			"name": "mayo"
+		},
+		{
+			"body": "我睡不着，来这里散散心",
+			"name": "mayo"
+		},
+		{
+			"body": "嗯，我也是。",
+			"name": "nadesiko"
+		},
+		{
+			"body": "嗯？森阿姨也是吗？",
+			"name": "mayo"
+		},
+		{
+			"body": "嗯，做了噩梦。",
+			"name": "nadesiko"
+		},
+		{
+			"body": "话说，真夜和健君关系很好呢",
+			"name": "nadesiko"
+		},
+		{
+			"body": "嗯，因为从小就在一起了",
+			"name": "mayo"
+		},
+		{
+			"body": "真好呀",
+			"name": "nadesiko"
+		},
+		{
+			"body": "但是，今晚我发现雨宫同学好像对健君有所......",
+			"name": "mayo"
+		},
+		{
+			"body": "是吗？那你怎么想呢？",
+			"name": "nadesiko"
+		},
+		{
+			"body": "我！我...当然是顺从健君的想法。",
+			"name": "mayo"
+		},
+		{
+			"body": "嗯，但是又有点不甘心吗？或者说是担忧，毕竟是从小到大的朋友嘛",
+			"name": "nadesiko"
+		},
+		{
+			"body": "森阿姨！我......嗯",
+			"name": "mayo"
+		},
+		{
+			"body": "那就去找他说清楚嘛，话说开了就好了。现在就先去睡觉吧",
+			"name": "nadesiko"
+		},
+		{
+			"body": "嗯",
+			"name": "mayo"
+		}
+	],
+	"storage_room_door": [
+		{
+			"body": "门上锁了，是密码锁",
+			"name": "nadesiko"
+		},
+		{
+			"body": "当初在这里学习的时候还可以进入的。怎么办呢？",
+			"name": "nadesiko"
+		},
+		{
+			"body": "诶！我知道同盟的密码设置规律，用这个来试着解一下吧",
+			"name": "nadesiko"
+		}
+	],
+	"storage_room_mariya": [
+		{
+			"body": "这是...玛利亚。怎么...怎么在这",
+			"name": "nadesiko"
+		},
+		{
+			"body": "玛利亚！玛利亚！",
+			"name": "nadesiko"
+		},
+		{
+			"body": "哦！被除灵了...嗯。毕竟小次郎已经牺牲了。作为眷属也自然被封存起来...",
+			"name": "nadesiko"
+		},
+		{
+			"body": "..小次郎...玛利亚..抱歉...真的抱歉，明明说好了要一起见证革命成功的一天的",
+			"name": "nadesiko"
+		},
+		{
+			"body": "我想要复活你，怎么样？玛利亚。",
+			"name": "nadesiko"
+		},
+		{
+			"body": "不，我忘了你听不到。没有灵驱动，就只是一个躯壳，没有意识。",
+			"name": "nadesiko"
+		},
+		{
+			"body": "万物皆是如此。你稍等，我马上给你附上灵。",
+			"name": "nadesiko"
+		}
+	],
+	"storage_room_mariya_2": [
+		{
+			"body": "这是...抚子！",
+			"name": "mariya"
+		},
+		{
+			"body": "玛利亚，你醒了。我想留你做我的眷属，可以吗？",
+			"name": "nadesiko"
+		},
+		{
+			"body": "当然，不过有跟中央请示吗？毕竟人造灵物是管制品",
+			"name": "mariya"
+		},
+		{
+			"body": "嗯，我明天就去申请。今晚是征求你的意见。",
+			"name": "nadesiko"
+		},
+		{
+			"body": "我们都这么熟了，学院A7级的大家还好吧？",
+			"name": "mariya"
+		},
+		{
+			"body": "嗯，裕树去东林亭支部、莉子和我留在这里、勇太他们三人都去森原亭支部了",
+			"name": "nadesiko"
+		},
+		{
+			"body": "嗯，大家都在为革命而努力呢。",
+			"name": "mariya"
+		},
+		{
+			"body": "抱歉，玛利亚，真的抱歉，没保护好小次郎",
+			"name": "nadesiko"
+		},
+		{
+			"body": "不，是我这位眷属的错。",
+			"name": "mariya"
+		},
+		{
+			"body": "不是的，当时你是去执行其他任务了。小次郎是为了保护我才...",
+			"name": "nadesiko"
+		},
+		{
+			"body": "小次郎以前是我们当中最胆小的了，所以老师才让我做他的眷属。但是我知道，你一直在帮助他吧！无论是合宿那一次，还是东林战役。",
+			"name": "mariya"
+		},
+		{
+			"body": "我总是放心不下他，因为当初是我拉他进同盟的。",
+			"name": "nadesiko"
+		},
+		{
+			"body": "他一直把你当成敬重的姐姐，很感激你带他走上正确的道路。所以请不要自责，他一定不希望你为他而悲伤。",
+			"name": "mariya"
+		},
+		{
+			"body": "嗯，为了小次郎，我一定要为实现宅灵解放而尽最后一滴血。",
+			"name": "nadesiko"
+		},
+		{
+			"body": "我们一起努力吧",
+			"name": "mariya"
+		},
+		{
+			"body": "嗯",
+			"name": "nadesiko"
+		},
+		{
+			"body": "现在应该不早了，抚子早点休息。我就呆在这里等中央的文件吧",
+			"name": "mariya"
+		},
+		{
+			"body": "晚安，玛利亚。",
+			"name": "nadesiko"
+		}
+	],
+	"storage_room_mariya_3": [
+		{
+			"body": "以前我们经常一起在储物室聊天，我对这里有一种亲切感",
+			"name": "mariya"
+		},
+		{
+			"body": "晚安，抚子。",
+			"name": "mariya"
+		}
+	],
+	"school_3_aki": [
+		{
+			"body": "白川明——宅使同盟总书记，宅使同盟建立者之一，同盟学院校长。有著作⟪宅使教册⟫，该书完善⟪灵论⟫，是学院教科书。",
+			"name": "nadesiko"
+		},
+		{
+			"body": "当年要不是老师拉我进同盟，我也不会有现在吧。",
+			"name": "nadesiko"
+		}
+	],
+	"room_door_open_ok": [
+		{
+			"body": "诶，打开了",
+			"name": "nadesiko"
+		}
+	],
+	"mariya_end": [
+		{
+			"body": "玛利亚，有灵教徒入侵",
+			"name": "nadesiko"
+		},
+		{
+			"body": "嗯，我刚想跟你说",
+			"name": "mariya"
+		},{
+			"body": "欸，你已经知道了吗？",
+			"name": "nadesiko"
+		},
+		{
+			"body": "嗯，我刚才抓获了偷东西的灵教徒。我正想去找你呢？",
+			"name": "mariya"
+		},{
+			"body": "看来不只一人啊。先把他们关到空房间了，明天再上报同盟。",
+			"name": "nadesiko"
+		},
+		{
+			"body": "嗯，我来看守吧！抚子就先去休息，现在不早了",
+			"name": "mariya"
+		}
+	]
+}
